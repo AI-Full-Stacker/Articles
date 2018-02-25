@@ -2,7 +2,7 @@
 
 ## 前言
 
-* 机器学习全栈工程师，欢迎关注！
+* 《机器学习全栈工程师》，欢迎您的关注！
 
 	<img border="0" src="https://github.com/Jack-Cherish/Pictures/blob/master/gzh.jpg" alt="ML" title="ML"></a>
 
