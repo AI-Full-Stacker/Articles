@@ -1,6 +1,6 @@
 ﻿# ResNet, AlexNet, VGG, Inception: 理解各种各样的CNN架构
 
-标签（空格分隔）： 叶虎
+作者： 叶虎
 
 ---
 
