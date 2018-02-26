@@ -16,3 +16,7 @@
 
 * [ShuffleNet](https://github.com/AI-Full-Stacker/Articles/blob/master/CNN%E6%A8%A1%E5%9E%8B%E4%B9%8BShuffleNet.md "悬停显示")
 
+## 安装教程
+
+* [TensorFlow开发环境搭建（Ubuntu16.04+GPU+TensorFlow源码编译）](https://github.com/AI-Full-Stacker/Articles/blob/master/TensorFlow%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%EF%BC%88Ubuntu16.04%2BGPU%2BTensorFlow%E6%BA%90%E7%A0%81%E7%BC%96%E8%AF%91%EF%BC%89.md "悬停显示")
+
