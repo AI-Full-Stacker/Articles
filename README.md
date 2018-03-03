@@ -20,6 +20,30 @@
 
 * [ShuffleNet](https://github.com/AI-Full-Stacker/Articles/blob/master/CNN%E6%A8%A1%E5%9E%8B%E4%B9%8BShuffleNet.md "悬停显示")
 
+### 机器学习
+
+* [《机器学习》笔记-绪论（1）](https://github.com/AI-Full-Stacker/Articles/blob/master/%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%8B%E7%AC%94%E8%AE%B0-%E7%BB%AA%E8%AE%BA%EF%BC%881%EF%BC%89.md "悬停显示")
+
+* [《机器学习》笔记-模型评估与选择（2）](https://github.com/AI-Full-Stacker/Articles/blob/master/%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%8B%E7%AC%94%E8%AE%B0-%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%E4%B8%8E%E9%80%89%E6%8B%A9%EF%BC%882%EF%BC%89.md "悬停显示")
+
+* [《机器学习》笔记-线性模型（3）](https://github.com/AI-Full-Stacker/Articles/blob/master/%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%8B%E7%AC%94%E8%AE%B0-%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B%EF%BC%883%EF%BC%89.md "悬停显示")
+
+* [《机器学习》笔记-决策树（4）](https://github.com/AI-Full-Stacker/Articles/blob/master/%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%8B%E7%AC%94%E8%AE%B0-%E5%86%B3%E7%AD%96%E6%A0%91%EF%BC%884%EF%BC%89.md "悬停显示")
+
+* [《机器学习》笔记-神经网络（5）](https://github.com/AI-Full-Stacker/Articles/blob/master/%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%8B%E7%AC%94%E8%AE%B0-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%EF%BC%885%EF%BC%89.md "悬停显示")
+
+* [《机器学习》笔记-支持向量机（6）](https://github.com/AI-Full-Stacker/Articles/blob/master/%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%8B%E7%AC%94%E8%AE%B0-%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA%EF%BC%886%EF%BC%89.md "悬停显示")
+
+* [《机器学习》笔记-贝叶斯分类器（7）](https://github.com/AI-Full-Stacker/Articles/blob/master/%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%8B%E7%AC%94%E8%AE%B0-%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E5%99%A8%EF%BC%887%EF%BC%89.md "悬停显示")
+
+* [《机器学习》笔记-集成学习（8）](https://github.com/AI-Full-Stacker/Articles/blob/master/%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%8B%E7%AC%94%E8%AE%B0-%E9%9B%86%E6%88%90%E5%AD%A6%E4%B9%A0%EF%BC%888%EF%BC%89.md "悬停显示")
+
+* [《机器学习》笔记-聚类（9）](https://github.com/AI-Full-Stacker/Articles/blob/master/%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%8B%E7%AC%94%E8%AE%B0-%E8%81%9A%E7%B1%BB%EF%BC%889%EF%BC%89.md "悬停显示")
+
+* [《机器学习》笔记-降维与度量学习（10）](https://github.com/AI-Full-Stacker/Articles/blob/master/%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%8B%E7%AC%94%E8%AE%B0-%E9%99%8D%E7%BB%B4%E4%B8%8E%E5%BA%A6%E9%87%8F%E5%AD%A6%E4%B9%A0%EF%BC%8810%EF%BC%89.md "悬停显示")
+
+* [《机器学习》笔记-特征选择与稀疏学习（11）](https://github.com/AI-Full-Stacker/Articles/blob/master/%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%8B%E7%AC%94%E8%AE%B0-%E7%89%B9%E5%BE%81%E9%80%89%E6%8B%A9%E4%B8%8E%E7%A8%80%E7%96%8F%E5%AD%A6%E4%B9%A0%EF%BC%8811%EF%BC%89.md "悬停显示")
+
 ### 安装教程
 
 * [TensorFlow开发环境搭建（Ubuntu16.04+GPU+TensorFlow源码编译）](https://github.com/AI-Full-Stacker/Articles/blob/master/TensorFlow%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%EF%BC%88Ubuntu16.04%2BGPU%2BTensorFlow%E6%BA%90%E7%A0%81%E7%BC%96%E8%AF%91%EF%BC%89.md "悬停显示")
