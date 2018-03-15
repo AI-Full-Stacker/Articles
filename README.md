@@ -22,6 +22,8 @@
 
 * [重磅_基于深度学习的目标检测综述(一）](https://github.com/AI-Full-Stacker/Articles/blob/master/%E9%87%8D%E7%A3%85_%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E7%BB%BC%E8%BF%B0(%E4%B8%80%EF%BC%89.md "悬停显示")
 
+* [CUDA编程入门极简教程](https://github.com/AI-Full-Stacker/Articles/blob/master/CUDA%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E6%9E%81%E7%AE%80%E6%95%99%E7%A8%8B.md "悬停显示")
+
 ### 机器学习
 
 * [《机器学习》笔记-绪论（1）](https://github.com/AI-Full-Stacker/Articles/blob/master/%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%8B%E7%AC%94%E8%AE%B0-%E7%BB%AA%E8%AE%BA%EF%BC%881%EF%BC%89.md "悬停显示")
